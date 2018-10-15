@@ -11,7 +11,10 @@
       "prettier --config .prettierrc --write"
     ]
   },
-  "repository": "",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/MilosRasic/split-demo-shared-build-deps.git"
+  },
   "author": "Miloš Rašić <milos.rasic@gmail.com> (https://github.com/MilosRasic)",
   "license": "MIT",
   "dependencies": {
